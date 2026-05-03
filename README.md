@@ -1,5 +1,7 @@
 <h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">Cybersecurity Professional and Developer</a> 💻🔑🛡</h1>
 
+<h2>🤖 AI Projects:</h2>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
