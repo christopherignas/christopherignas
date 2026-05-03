@@ -1,13 +1,14 @@
 <h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">Cybersecurity Professional and Developer</a> 💻🔑🛡</h1>
 
 <h2>🤖 AI Projects:</h2>
+- <b>OWASP Gen AI</b>
+  - [RAG Prompt Injection Demo (gpt-4o-mini)](https://github.com/christopherignas/rag-prompt-injection-demo)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/chrisignas/Azure-Honeynet-SOC)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
-  - [Create a File Integrity Monitor (FIM)](https://github.com/chrisignas/create-fim)
   - [Build a Simple REST API](https://github.com/chrisignas/build-rest-api)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
