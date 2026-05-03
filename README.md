@@ -1,31 +1,39 @@
-<h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">Cybersecurity Professional and Developer</a> 💻🔑🛡</h1>
+# Hi, I'm Chris 👋
 
-<h2>🤖 AI Security Projects:</h2>
+I'm a **Security Engineer** focused on **AI Security** — building production
+AI integrations and applying offensive-security discipline to LLM-integrated
+systems. Based in Tampa Bay, FL.
 
-- <b>OWASP Gen AI</b>
-  - [OWASP LLM Top 10 — LLM01: RAG Prompt Injection Demo (gpt-4o-mini)](https://github.com/christopherignas/rag-prompt-injection-demo)   
+**Currently:** Security Engineer at Abacode Cybersecurity (penetration
+testing + SOC background). Pursuing the **HTB Certified Offensive AI
+Expert (COAE)** credential. Finishing my **M.S. in Cybersecurity**
+at Western Governors University.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**Certifications:** PNPT (Practical Network Penetration Tester) · CompTIA Security+
 
-- <b>Microsoft Azure</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/chrisignas/Azure-Honeynet-SOC)                        
-  - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/chrisignas/setup-azure-sentinel)
-  - [Build a Simple REST API](https://github.com/chrisignas/build-rest-api)
+---
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 🤖 AI Security Projects
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/chrisignas/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/chrisignas/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisignas/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/chrisignas/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisignas/azure-network-protocols)
-  - [Configuring DNS settings within Azure VMs](https://github.com/chrisignas/configure-dns)
-  - [Network File Shares and Permissions within Azure VMs](https://github.com/chrisignas/configure-network-file-shares-and-permissions)
+- **[Indirect Prompt Injection in RAG — with Layered Defenses](https://github.com/christopherignas/rag-prompt-injection-demo)** — Hands-on demo of OWASP LLM01 (Prompt Injection). RAG pipeline poisoning attack with spotlighting + injection-classifier defenses. Maps to OWASP LLM Top 10 and MITRE ATLAS.
 
-<h2>🤳Connect with me:</h2>
+*More AI Security projects in progress — covering OWASP LLM06 (Excessive Agency) and LLM07 (System Prompt Leakage) next.*
 
-[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://linkedin.com/in/christopherignas
+## 🛡️ Cybersecurity Projects
+
+### Microsoft Azure
+- [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/christopherignas/Azure-Honeynet-SOC)
+- [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/christopherignas/setup-azure-sentinel)
+- [Configuring Active Directory in Azure](https://github.com/christopherignas/configure-ad)
+- [Network Security Groups (NSGs) and Network Protocols](https://github.com/christopherignas/azure-network-protocols)
+- [Vulnerability Management Lab](https://github.com/christopherignas/setup-vulnerability-management-lab)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christopherignas)
+&nbsp;
+ci@christopherignas.com
