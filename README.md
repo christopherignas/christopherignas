@@ -1,8 +1,9 @@
 <h1>Hello there, I'm Chris, an <a href="https://www.linkedin.com/in/christopherignas/">Cybersecurity Professional and Developer</a> 💻🔑🛡</h1>
 
-<h2>🤖 AI Projects:</h2>
+<h2>🤖 AI Security Projects:</h2>
+
 - <b>OWASP Gen AI</b>
-  - [RAG Prompt Injection Demo (gpt-4o-mini](https://github.com/christopherignas/rag-prompt-injection-demo)   
+  - [RAG Prompt Injection Demo (gpt-4o-mini)](https://github.com/christopherignas/rag-prompt-injection-demo)   
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
