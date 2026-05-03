@@ -3,7 +3,7 @@
 <h2>🤖 AI Security Projects:</h2>
 
 - <b>OWASP Gen AI</b>
-  - [RAG Prompt Injection Demo (gpt-4o-mini)](https://github.com/christopherignas/rag-prompt-injection-demo)   
+  - [OWASP LLM Top 10 — LLM01: RAG Prompt Injection Demo (gpt-4o-mini)](https://github.com/christopherignas/rag-prompt-injection-demo)   
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
