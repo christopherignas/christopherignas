@@ -28,7 +28,6 @@ at Western Governors University.
 - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/christopherignas/setup-azure-sentinel)
 - [Configuring Active Directory in Azure](https://github.com/christopherignas/configure-ad)
 - [Network Security Groups (NSGs) and Network Protocols](https://github.com/christopherignas/azure-network-protocols)
-- [Vulnerability Management Lab](https://github.com/christopherignas/setup-vulnerability-management-lab)
 
 ---
 
