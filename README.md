@@ -15,7 +15,7 @@ at Western Governors University.
 
 ## 🤖 AI Security Projects
 
-- **[Indirect Prompt Injection in RAG (with Layered Defenses)](https://github.com/christopherignas/rag-prompt-injection-demo)** — Hands-on demo of OWASP LLM01 (Prompt Injection). RAG pipeline poisoning attack with spotlighting + injection-classifier defenses. Maps to OWASP LLM Top 10 and MITRE ATLAS.
+- **[Indirect Prompt Injection in RAG (with Layered Defenses)](https://github.com/christopherignas/rag-prompt-injection-demo)** - Hands-on demo of OWASP LLM01 (Prompt Injection). RAG pipeline poisoning attack with spotlighting + injection-classifier defenses. Maps to OWASP LLM Top 10 and MITRE ATLAS.
 
 - **[Excessive Agency in Tool-Calling Agents (with Layered Defenses)](https://github.com/christopherignas/agent-excessive-agency-demo)** - Hands-on demo of OWASP LLM06 (Excessive Agency) — tool-calling agent hijacked via indirect prompt injection, with layered defenses. Maps to OWASP LLM Top 10 and MITRE ATLAS.
 
